@@ -1,6 +1,30 @@
 # Byte X E-Commerce Performance Report 2020-23
 
 
+<details>
+<summary><strong>Table of Contents</strong></summary>
+
+- [1. Background](#1-background)  
+- [2. Data Overview and Methodology](#2-data-overview-and-methodology)  
+- [3. Executive Summary](#3-executive-summary)  
+- [4. Yearly Performance Analysis](#4-yearly-performance-analysis)  
+  - [4.1 Sales and Profit Overview](#41-sales-and-profit-overview)  
+  - [4.2 Quantity Sold Overview](#42-quantity-sold-overview)  
+- [5. Seasonal and Monthly Trends](#5-seasonal-and-monthly-trends)  
+- [6. Weekly Trends Analysis](#6-weekly-trends-analysis)  
+- [7. Category Performance Analysis](#7-category-performance-analysis)  
+  - [7.1 Top Performing Categories](#71-top-performing-categories)  
+  - [7.2 Lowest Performing Categories](#72-lowest-performing-categories)  
+- [8. Contextual Market Insights](#8-contextual-market-insights)  
+- [9. Key Insights and Interpretations](#9-key-insights-and-interpretations)  
+- [10. Strategic Recommendations](#10-strategic-recommendations)  
+- [11. Limitations and Future Considerations](#11-limitations-and-future-considerations)  
+- [12. Conclusion](#12-conclusion)
+
+</details>
+
+
+
 ## 1. Background
 
 Over the period from 2020 to 2023, Byte X’s  e-commerce division has navigated a rapidly changing market environment, evolving consumer trends and intensifying competition. It became crucial to analyze the divisions’ historical performance  to understand past trends and derive actionable insights for future decision-making. I am partnering with the head of operations to extract insights and deliver recommendations to improve performance across sales, product and marketing teams.
