@@ -7,7 +7,7 @@ Over the period from 2020 to 2023, Byte X’s  e-commerce division has navigated
 
 **Objectives:**
 
-- **Performance Assessment:** Evaluate multi-year trends in sales, profit, and units sold.
+- **Performance Assessment:** Evaluate multi-year trends in sales, profit and units sold.
 - **Seasonal Analysis:** Identify months and weeks that consistently drive performance.
 - **Product Category Insight:** Pinpoint which product groups are high performers and which are underperforming.
 - **Strategic Guidance:** Formulate data-driven recommendations for marketing, inventory management and operational improvements.
@@ -29,7 +29,7 @@ Over the period from 2020 to 2023, Byte X’s  e-commerce division has navigated
 
 **Methodology:**
 
-- Data was aggregated and cleaned, segmented by year, month, and week.
+- Data was aggregated and cleaned, segmented by year, month and week.
 - We conducted year-over-year (YoY) comparative analyses and computed growth rates.
 - Outliers were identified, and seasonal patterns were extracted.
 - Visual summaries (tables and trends) were prepared to support our findings.
@@ -165,7 +165,7 @@ Over the period from 2020 to 2023, Byte X’s  e-commerce division has navigated
 
 **Key Insights:**
 
-- **Chronic Underperformance:** Categories such as Tables and Bookcases continue to underperform, and in 2023, their figures indicate significant drag.
+- **Chronic Underperformance:** Categories such as Tables and Bookcases continue to underperform and in 2023, their figures indicate significant drag.
 - **Strategic Implication:** These product lines should be re-examined and potentially repositioned or de-prioritized to free up resources.
 
 ---
@@ -184,7 +184,7 @@ Over the period from 2020 to 2023, Byte X’s  e-commerce division has navigated
 
 - **Revenue and Profit Acceleration:**
     
-    From 2020 to 2023, both revenue and profit increased significantly, with a marked improvement in profit margins in 2023. This indicates that our cost control initiatives and strategic product mix are effective.
+    From 2020 to 2023, both revenue and profit increased significantly with a marked improvement in profit margins in 2023. This indicates that our cost control initiatives and strategic product mix are effective.
     
 - **Consistent Seasonality:**
     
@@ -204,7 +204,7 @@ Over the period from 2020 to 2023, Byte X’s  e-commerce division has navigated
 ## 10. Strategic Recommendations
 
 1. **Invest in High Performers:**
-    - Expand marketing budgets, optimize stock levels, and drive digital campaigns for Accessories, Phones, and Appliances.
+    - Expand marketing budgets, optimize stock levels and drive digital campaigns for Accessories, Phones, and Appliances.
     - Leverage data to predict high-demand periods in Q3/Q4 and prepare accordingly.
 2. **Address Underperforming Categories:**
     - Review and potentially reposition or discontinue product lines like Tables and Bookcases.
