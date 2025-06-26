@@ -39,7 +39,7 @@ Over the period from 2020 to 2023, Byte X’s  e-commerce division has navigated
 
 ---
 
-## 2. Data Overview and Methodology
+## 2. Data Structure and Initial Checks
 
 **Data Sources and Scope:**
 
